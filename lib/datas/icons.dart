@@ -12,7 +12,6 @@ List<GojekIcon> menuIcons = [
   GojekIcon(icon: 'gocar', title: 'GoCar', color: green2),
   GojekIcon(icon: 'gofood', title: 'GoFood', color: red),
   GojekIcon(icon: 'gosend', title: 'GoSend', color: green2),
-  GojekIcon(icon: 'gosend', title: 'GoSend', color: green2),
   GojekIcon(icon: 'gomart', title: 'GoMart', color: red),
   GojekIcon(icon: 'goPulsa', title: 'GoPulsa', color: blue2),
   GojekIcon(icon: 'goclub', title: 'GoClub', color: purple),
